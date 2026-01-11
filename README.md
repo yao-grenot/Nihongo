@@ -98,6 +98,10 @@
 
 
 
+<audio controls>
+  <source src="１单词.mp3" type="audio/mpeg">
+</audio>
+
 [１单词.mp3](https://github.com/user-attachments/files/24552643/default.mp3)
 
 
